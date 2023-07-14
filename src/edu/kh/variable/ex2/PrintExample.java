@@ -7,7 +7,7 @@ public class PrintExample {
 		
 		// System.out.print() : 단순 출력(출력 후 줄바꿈 X)
 		// System.out.println() : 한 줄 출력(출력 후 줄바꿈 수행)
-		// 줄바꿈이라는 차이점은 있지만 괄호ㅇ안의 내용이 그대로 나온다는것은 똑같음
+		// 줄바꿈이라는 차이점은 있지만 괄호안의 내용이 그대로 나온다는것은 똑같음
 		
 		System.out.println("테스트1");
 		System.out.println("테스트2");
