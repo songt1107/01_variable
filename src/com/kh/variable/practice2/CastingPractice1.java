@@ -9,9 +9,9 @@ public class CastingPractice1 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("문자 : ");
-		char input1 = sc.next().charAt(0);
+		char result2 = sc.next().charAt(0);
 		
-		System.out.printf(input1 + " unicord : " + (int)input1);
+		System.out.printf("%s unicord : %d", result2, (int)result2);
 		
 	}
 	
